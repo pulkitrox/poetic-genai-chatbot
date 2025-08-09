@@ -22,5 +22,5 @@ It leverages Hugging Face Transformers and prompt engineering to produce unique 
 3. Install dependencies and run all cells
 
 ## Run on Colab
-[Open in Google Colab](PASTE_YOUR_SHARED_COLAB_LINK)
+[Open in Google Colab](https://colab.research.google.com/drive/1OxOwHcb-YVJYKCix0KaiaZySOEz5or7C?usp=sharing)
 
